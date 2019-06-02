@@ -31,3 +31,53 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: rgb(155, 204, 235);
+}
+
+.nav-bar, .nav-bar>h1{
+  background-color: rgb(67, 166, 228);
+  margin-top: 0px;
+  height: 60px;
+  padding: 10px 0px;
+}
+
+#textarea{
+  width: 600px;
+  margin: 18px auto;
+  margin-top: 0px;
+  min-height: 200px;
+  resize: vertical;
+  outline: none;
+  font-size: 12px;
+  background-color: rgb(206, 228, 241);
+  box-shadow: 1px 1px 10px 2px;
+}
+
+.preview {
+  width: 900px;
+  margin: 0px auto;
+  background-color: rgb(206, 228, 241);
+  box-shadow: 1px 1px 10px 2px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.toolbar-div {
+  background-color: rgb(56, 168, 238);
+  margin: 0 auto;
+  border-style: solid;
+  border-width: 1px;
+  padding: 2px;
+  text-align: left;
+}
+
+#Editor{
+  width: 606px;
+  margin-top: 30px;
+}
+
+#Preview {
+  width: 900px;
+}

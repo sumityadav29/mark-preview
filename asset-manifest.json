@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mark-preview/static/css/main.5cd4b16c.chunk.css",
+    "main.css": "/mark-preview/static/css/main.ce425f12.chunk.css",
     "main.js": "/mark-preview/static/js/main.1d8c0950.chunk.js",
     "main.js.map": "/mark-preview/static/js/main.1d8c0950.chunk.js.map",
     "runtime~main.js": "/mark-preview/static/js/runtime~main.c9e11cbe.js",
@@ -8,9 +8,9 @@
     "static/js/2.fe39fb3e.chunk.js": "/mark-preview/static/js/2.fe39fb3e.chunk.js",
     "static/js/2.fe39fb3e.chunk.js.map": "/mark-preview/static/js/2.fe39fb3e.chunk.js.map",
     "index.html": "/mark-preview/index.html",
-    "precache-manifest.1f514003549bfac7fa3499350312486a.js": "/mark-preview/precache-manifest.1f514003549bfac7fa3499350312486a.js",
+    "precache-manifest.e608b7d5cd991ea817cae06e946c7c02.js": "/mark-preview/precache-manifest.e608b7d5cd991ea817cae06e946c7c02.js",
     "service-worker.js": "/mark-preview/service-worker.js",
-    "static/css/main.5cd4b16c.chunk.css.map": "/mark-preview/static/css/main.5cd4b16c.chunk.css.map",
+    "static/css/main.ce425f12.chunk.css.map": "/mark-preview/static/css/main.ce425f12.chunk.css.map",
     "static/media/logo.svg": "/mark-preview/static/media/logo.5d5d9eef.svg"
   }
 }
